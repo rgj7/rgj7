@@ -1,16 +1,15 @@
-## Hi there 👋
+## about me
 
-<!--
-**rgj7/rgj7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- python engineer, in automation and internal tooling
+- previously
+    - automation engineer at apple
+      - built platform to perform validation workflows of ad campaigns on native apps
+    - sdet at amazon
+      - firmware test automation for amazon glow devices
+    - sdet at hulu
+      - built tools and test frameworks on video qe team
 
-Here are some ideas to get you started:
+## find me on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [personal blog](http://www.whoisrgj.com)
+- [twitter](http://www.x.com/rgj7)
